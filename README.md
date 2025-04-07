@@ -14,7 +14,7 @@ O objetivo desse projeto é analisar padrões de tendências de entrada e saída
 - Personagem que mais ressuscitou: Jocasta
 
 ## 📁 Dados
-Dados  disponíveis em: [Link](https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-avengers-dataset)]
+Dados  disponíveis em: [Link](https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-avengers-dataset)
 
 
 
