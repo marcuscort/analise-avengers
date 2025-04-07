@@ -1,20 +1,36 @@
-# Análise de Vendas - Loja Fictícia
+# 🦸‍♂️ Análise dos Vingadores com Python
 
 ## 📌 Objetivo
-O objetivo desse projeto é analisar padrões de tendências de entrada e saídas dos membros dos Vingadores ao longo do tempo.
 
-## 🛠️ Ferramenta
-- Python (Pandas, Matplotlib, Seaborn)
+Explorar os dados dos personagens dos Vingadores (Avengers) utilizando Python para descobrir padrões como:
+- Quem são os membros mais antigos?
+- Quais personagens morreram ou voltaram à vida?
+- Diferença entre gêneros e filiações ao longo do tempo
 
-## 📊 Principais Insights
-- Existiram 115 superheróis masculinos (que equivalem a 66.5% do total) e 58 superheróinas (que equivalem a 33.5% do total).
-- A partir do ano 2000 a diferença entre herois masculinos e femininos se tornou ainda mais discrepante, sendo os personagens homens os heróis de maior frequência sempre.
-- Número total de personagens que morreram pelo menos uma vez: 69
-- Número total de personagens que retornaram da morte pelo menos uma vez: 46
-- Personagem que mais ressuscitou: Jocasta
+## 🗂️ Dados
 
-## 📁 Dados
-Dados  disponíveis em: [Link](https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-avengers-dataset)
+Fonte: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/avengers)
 
+## 🛠️ Ferramentas utilizadas
+
+- Python
+  - Pandas
+  - Matplotlib
+  - Google Colab
+
+## 📊 Principais insights
+
+- A maioria dos Vingadores originais são homens.
+- Existem diversos personagens que morreram e depois retornaram.
+- A média de idade dos membros originais é aproximadamente X anos (você pode completar com um valor real).
+
+## 📁 Arquivos
+
+- `analise_avengers.ipynb`: notebook com o código da análise
+
+## 🚀 Próximos passos
+
+- Criar visualizações interativas com Plotly ou Power BI
+- Comparar os Vingadores com outros grupos da Marvel
 
 
